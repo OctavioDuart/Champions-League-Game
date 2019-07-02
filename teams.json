@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "name": "Ajax",
+        "country": "Netherlands",
+        "soccer_fans": 1817017,
+        "titles": 4,
+        "viceTitles": 2,
+        "price": 444.10
+    },
+    {
+        "id": 2,
+        "name": "Arsenal",
+        "country": "England",
+        "soccer_fans": 3951475,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 582.75
+    },
+    {
+        "id": 3,
+        "name": "Aston Villa",
+        "country": "England",
+        "soccer_fans": 687967,
+        "titles": 1,
+        "viceTitles": 0,
+        "price": 133.50
+    },
+    {
+        "id": 4,
+        "name": "Atlético Madrid",
+        "country": "Spain",
+        "soccer_fans": 1366184,
+        "titles": 0,
+        "viceTitles": 3,
+        "price": 906.80
+    },
+    {
+        "id": 5,
+        "name": "Barcelona",
+        "country": "Spain",
+        "soccer_fans": 5688702,
+        "titles": 5,
+        "viceTitles": 3,
+        "price": 1115.00
+    },
+    {
+        "id": 6,
+        "name": "Bayer Leverkusen",
+        "country": "Germany",
+        "soccer_fans": 4266996,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 408.00
+    },
+    {
+        "id": 7,
+        "name": "Bayern de Munique",
+        "country": "Germany",
+        "soccer_fans": 15577104,
+        "titles": 5,
+        "viceTitles": 5,
+        "price": 757.15
+    },
+    {
+        "id": 8,
+        "name": "Benfica",
+        "country": "Portugal",
+        "soccer_fans": 4013501,
+        "titles": 2 ,
+        "viceTitles": 5,
+        "price": 388.00
+    },
+    {
+        "id": 9,
+        "name": "Borussia Dortmund",
+        "country": "Germany",
+        "soccer_fans":11227853 ,
+        "titles": 1 ,
+        "viceTitles": 1,
+        "price": 720.60
+    },
+    {
+        "id": 10,
+        "name": "Borussia Mönchengladbach",
+        "country": "Germany",
+        "soccer_fans": 5398006,
+        "titles": 0 ,
+        "viceTitles": 1,
+        "price": 249.80
+    },
+    {
+        "id": 11,
+        "name": "Brugge",
+        "country": "Belgium",
+        "soccer_fans": 800000,
+        "titles": 0 ,
+        "viceTitles": 1,
+        "price": 107.10
+    },
+    {
+        "id": 12,
+        "name": "Celtic",
+        "country": "Scotland",
+        "soccer_fans": 1497462,
+        "titles": 1 ,
+        "viceTitles": 1,
+        "price": 63.78
+    },
+    {
+        "id": 13,
+        "name": "Chelsea",
+        "country": "England",
+        "soccer_fans": 2039471,
+        "titles": 1 ,
+        "viceTitles": 1,
+        "price": 881.65
+    },
+    {
+        "id": 14,
+        "name": "Eintracht Frankfurt",
+        "country": "Germany",
+        "soccer_fans": 2020000,
+        "titles": 0 ,
+        "viceTitles": 1,
+        "price": 219.48
+    },
+    {
+        "id": 15,
+        "name": "Estrela Vermelha",
+        "country": "Serbia",
+        "soccer_fans": 4070000,
+        "titles": 1 ,
+        "viceTitles": 0,
+        "price": 56.35
+    },
+    {
+        "id": 16,
+        "name": "Feyenoord",
+        "country": "Netherlands",
+        "soccer_fans": 1216689,
+        "titles": 1 ,
+        "viceTitles": 0,
+        "price": 74.00
+    },
+    {
+        "id": 17,
+        "name": "Fiorentina",
+        "country": "Italy",
+        "soccer_fans": 977614,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 240.38
+    },
+    {
+        "id": 18,
+        "name": "Internazionale",
+        "country": "Italy",
+        "soccer_fans": 3916737,
+        "titles": 3,
+        "viceTitles": 2,
+        "price": 553.25
+    },
+    {
+        "id": 19,
+        "name": "Leeds United",
+        "country": "England",
+        "soccer_fans": 921875,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 83.10
+    },
+    {
+        "id": 20,
+        "name": "Liverpool",
+        "country": "England",
+        "soccer_fans": 5608544,
+        "titles": 6,
+        "viceTitles": 3,
+        "price": 1009.00
+    },
+    {
+        "id": 21,
+        "name": "Malmo",
+        "country": "Sweden",
+        "soccer_fans": 420000,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 17.5
+    },
+    {
+        "id": 22,
+        "name": "Manchester United",
+        "country": "England",
+        "soccer_fans": 5990945,
+        "titles": 3,
+        "viceTitles": 2,
+        "price": 801.10
+    },
+    {
+        "id": 23,
+        "name": "Milan",
+        "country": "Italy",
+        "soccer_fans": 4182565,
+        "titles": 7,
+        "viceTitles": 4,
+        "price": 480.55
+    },
+    {
+        "id": 24,
+        "name": "Monaco",
+        "country": "France",
+        "soccer_fans": 760783,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 335.95
+    },
+    {
+        "id": 25,
+        "name": "Nottingham Forest",
+        "country": "England",
+        "soccer_fans": 410283,
+        "titles": 2,
+        "viceTitles": 0,
+        "price": 56.95
+    },
+    {
+        "id": 26,
+        "name": "Panathinaikos",
+        "country": "Greece",
+        "soccer_fans": 455240,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 16.10
+    },
+    {
+        "id": 27,
+        "name": "Partizan",
+        "country": "Serbia",
+        "soccer_fans": 2070000,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 30.68
+    },
+    {
+        "id": 28,
+        "name": "Porto",
+        "country": "Portugal",
+        "soccer_fans": 2058205,
+        "titles": 2,
+        "viceTitles": 0,
+        "price": 246.60
+    },
+    {
+        "id": 29,
+        "name": "PSV",
+        "country": "Netherlands",
+        "soccer_fans": 824681,
+        "titles": 1,
+        "viceTitles": 0,
+        "price": 221.30
+    },
+    {
+        "id": 30,
+        "name": "Real Madrid",
+        "country": "Spain",
+        "soccer_fans": 8488260,
+        "titles": 13,
+        "viceTitles": 3,
+        "price": 1000.30
+    },
+    {
+        "id": 31,
+        "name": "Roma",
+        "country": "Italy",
+        "soccer_fans": 1897636,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 408.40
+    },
+    {
+        "id": 32,
+        "name": "Sampdoria",
+        "country": "Italy",
+        "soccer_fans": 149610,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 191.58
+    },
+    {
+        "id": 33,
+        "name": "Stade de Reims",
+        "country": "France",
+        "soccer_fans": 21133,
+        "titles": 0,
+        "viceTitles": 2,
+        "price": 78.70
+    },
+    {
+        "id": 34,
+        "name": "Steaua Bucareste",
+        "country": "Romania",
+        "soccer_fans": 148133,
+        "titles": 1,
+        "viceTitles": 1,
+        "price": 14.03
+    },
+    {
+        "id": 35,
+        "name": "Tottenham",
+        "country": "England",
+        "soccer_fans": 1218684,
+        "titles": 0,
+        "viceTitles": 1,
+        "price": 882.00
+    },
+    {
+        "id": 36,
+        "name": "Valencia",
+        "country": "Spain",
+        "soccer_fans": 783876,
+        "titles": 0,
+        "viceTitles": 2,
+        "price": 470.90
+    }
+]

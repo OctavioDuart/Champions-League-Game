@@ -1,0 +1,14 @@
+{
+  "name": "champions-league-api",
+  "version": "1.0.0",
+  "description": "A Champions League API ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Octávio Duarte",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
