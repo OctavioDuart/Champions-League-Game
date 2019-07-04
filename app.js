@@ -1,15 +1,18 @@
-const express = require('express');
-
-const port = process.env.port || 8000;
-const address = 'http://127.0.0.1';
-
-const app = express();
-
+const express = require ('express');
+const http = require ('http');
+const socketIo = require ('socket.io');
+const port = process.env.PORT || 8000;
+const routes = require ('./routes');
 
 require('./tests');
 
-app.listen(port , (err) => {
-    (err) ? console.error(`Ocorreu o seguinte erro ${err}`) : 
-    console.log(`Servidor iniciado com sucesso no endereço : ${address}:${port}`)
-});
+const app = express();
+app.use(routes);
 
+const server = http.createServer(app);
+const io = socketIo(server);
+
+
+server.listen(port , (err) => {
+    (!err) ? console.log(`Server running on port ${port}`) : console.error(`Ocurred a error : ${err}`) 
+});

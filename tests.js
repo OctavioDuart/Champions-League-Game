@@ -23,5 +23,5 @@ let verify_titles = true;
 })();
 
 
-(verify_id) ? console.log(`Teste de ID - OK`) : console.error(`Teste de ID - Não Passou`);
-(verify_titles) ? console.log(`Teste de Titulos - OK`) : console.error(`Teste de Titulos - Não Passou`);
+(verify_id) ? console.log(`Test  ID - OK`) : console.error(`Test  ID - Error`);
+(verify_titles) ? console.log(`Test  Titles - OK`) : console.error(`Test de Titles - Error`);
